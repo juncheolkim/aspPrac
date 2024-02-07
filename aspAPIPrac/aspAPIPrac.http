@@ -1,0 +1,6 @@
+@aspAPIPrac_HostAddress = http://localhost:5044
+
+GET {{aspAPIPrac_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
